@@ -3,5 +3,5 @@ Practica 1 de Tipología y ciclo de vida de datos
 
 
 María José Morte
-mjmorteruiz@hotmail.com
+mjmorteruiz@edu.com
 
