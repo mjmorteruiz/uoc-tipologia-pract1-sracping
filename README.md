@@ -23,4 +23,4 @@ Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
 Recursos usados añadidos
 
 Uso de la libreria Beautiful Soup
-Permite analizar documentos HTML y extraer datos de elos, compensando imperfecciones que existen
+Permite analizar documentos HTML y extraer datos de ellos, compensando imperfecciones que existen
