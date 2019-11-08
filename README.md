@@ -14,6 +14,7 @@ Como material complementario y optativo se ofrece los siguientes recursos:
 • Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A
 Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
 
-Recursos d'aprenentatge
+Recursos usados
+
 Uso de la libreria Beautiful Soup
- 
+Permite analizar documentos HTML y extraer datos de elos, compensando imperfecciones que existen
