@@ -5,7 +5,7 @@ Practica 1 de Tipología y ciclo de vida de datos
 María José Morte
 mjmorteruiz@edu.com
 
-Los siguientes recursos son de utilidad para la realización de la práctica:
+
 • Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
 • Masip, D. (2010). El lenguaje Python. Editorial UOC.
 • Tutorial de Github https://guides.github.com/activities/hello-world .
