@@ -1,3 +1,9 @@
+#Title: muusica-ivox
+#Practica 1 de extracción de datos (webcraping) de https://www.ivoox.com/
+#Author: María José Morte
+#Contacto: mjmorteruiz@uoc.edu
+
+
 import requests
 import lxml
 import bs4
